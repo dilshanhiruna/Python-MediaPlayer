@@ -1,0 +1,4 @@
+build/Player
+dist
+__pycache__
+Player.spec 
